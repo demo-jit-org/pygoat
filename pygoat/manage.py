@@ -3,6 +3,7 @@
 import os
 import sys
 
+MY_AWS_SECRET="AKIAIOSFODNN7EXAMPLE"
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pygoat.settings')
